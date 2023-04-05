@@ -5,5 +5,5 @@ You can use select(multi-selects),inputs,upload files(multi upload files)
 ,switch(on/off),radio-groups etc**
 
 
-**Main thing it's open source anyone and contribute in it.**
+**Main thing it's open source anyone can contribute in it.**
 
