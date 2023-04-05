@@ -1,0 +1,26 @@
+{
+  "name": "react-hf-reusable-components",
+  "version": "1.0.0",
+  "description": "A react library for using reusable components of react-hook-form like You can use select(multi-selects),inputs,upload files(multi upload files),switch(on/off),radio-groups etc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faizaniqbalLC/react-hf-reusable-components.git"
+  },
+  "keywords": [
+    "react",
+    "react-hook-form",
+    "reusable",
+    "mui",
+    "components"
+  ],
+  "author": "Muhammad Fizan Iqbal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/faizaniqbalLC/react-hf-reusable-components/issues"
+  },
+  "homepage": "https://github.com/faizaniqbalLC/react-hf-reusable-components#readme"
+}
