@@ -1,1 +1,1 @@
-export * from "./components/Requirements/Requirements";
+export * from './components/Requirements';
